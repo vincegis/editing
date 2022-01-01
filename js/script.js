@@ -91,7 +91,7 @@ editmap.on('pm:create', function(e){
     })
     
     e.layer.on('pm:edit', function(e){
-        //alert('edit');
+        alert('edit');
     })
 })
 
