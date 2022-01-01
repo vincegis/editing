@@ -117,6 +117,7 @@ lyrEdits.on("pm:edit", function(e){
 
 function dataUpdated(){
     toastr.success("Data has been updated!");
+    console.log("test");
 }
 
 function dataInserted(){
